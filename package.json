@@ -1,0 +1,25 @@
+{
+  "name": "techtok",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonia11yb/techtok.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonia11yb/techtok/issues"
+  },
+  "homepage": "https://github.com/antonia11yb/techtok#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.27.0"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "description": ""
+}
